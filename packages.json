@@ -6,7 +6,7 @@
     },
     {
         "package": "reviser",
-        "url": "https://github.com/p-wegmueller/reviser",
-        "branch" : "main"
+        "url": "https://github.com/ropensci/reviser",
+        "branch" : "*release"
     }
 ]

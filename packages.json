@@ -11,6 +11,7 @@
             "organization": "rOpenSci Software Review",
             "url": "https://github.com/ropensci/software-review/issues/767"
           }
+        }
     },
     {
         "package": "reviser",
@@ -24,6 +25,7 @@
             "organization": "rOpenSci Software Review",
             "url": "https://github.com/ropensci/software-review/issues/709"
           }
+        }
     },
     {
         "package": "hetiv",

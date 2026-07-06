@@ -8,5 +8,10 @@
         "package": "reviser",
         "url": "https://github.com/ropensci/reviser",
         "branch" : "*release"
+    },
+    {
+        "package": "hetiv",
+        "url": "https://github.com/dankaufmann/hetiv",
+        "branch" : "*release"
     }
 ]

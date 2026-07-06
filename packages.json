@@ -2,16 +2,32 @@
     {
         "package": "bridgr",
         "url": "https://github.com/marcburri/bridgr",
-        "branch" : "*release"
+        "branch": "*release",
+        "metadata": {
+          "review": {
+            "id": 767,
+            "status": "pre-submission",
+            "version": "0.1.2",
+            "organization": "rOpenSci Software Review",
+            "url": "https://github.com/ropensci/software-review/issues/767"
+          }
     },
     {
         "package": "reviser",
         "url": "https://github.com/ropensci/reviser",
-        "branch" : "*release"
+        "branch": "*release",
+        "metadata": {
+          "review": {
+            "id": 709,
+            "status": "reviewed",
+            "version": "0.1.1",
+            "organization": "rOpenSci Software Review",
+            "url": "https://github.com/ropensci/software-review/issues/709"
+          }
     },
     {
         "package": "hetiv",
         "url": "https://github.com/dankaufmann/hetiv",
-        "branch" : "*release"
+        "branch": "main"
     }
 ]

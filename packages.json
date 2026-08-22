@@ -6,7 +6,7 @@
         "metadata": {
           "review": {
             "id": 767,
-            "status": "review",
+            "status": "under-review",
             "version": "1.0.0",
             "organization": "rOpenSci Software Review",
             "url": "https://github.com/ropensci/software-review/issues/791"
